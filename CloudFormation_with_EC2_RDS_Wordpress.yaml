@@ -1,5 +1,5 @@
 Parameters:
-  EnvironmentSize:
+ EnvironmentSize:
     Type: String
     Default: SMALL
     AllowedValues:
